@@ -1,2 +1,2 @@
 # TWstockdata
-RPT data for future and option
+Historial data for stock
